@@ -33,4 +33,4 @@ make saxpyMatrix
 
 ### Statistics
 
-![](images/Tiempos_vs_GPU_y_CPU.png)
+![](images/statistics.png)
