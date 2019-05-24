@@ -32,5 +32,5 @@ make saxpyMatrix
 ![](images/saxpyMatrix32x32.png)
 
 ### Statistics
-
+The blue line is for the GPU and the red line is for the CPU.
 ![](images/statistics.png)
