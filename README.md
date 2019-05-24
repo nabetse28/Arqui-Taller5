@@ -20,13 +20,17 @@ make saxpyMatrix
 
 ## Saxpy Matrix
 ### Matrix 4x4
-![](images/saxpy_serial.png)
+![](images/saxpyMatrix4x4.png)
 
 ### Matrix 8x8
-![](images/saxpy_serial.png)
+![](images/saxpyMatrix8x8.png)
 
 ### Matrix 16x16
-![](images/saxpy_serial.png)
+![](images/saxpyMatrix16x16.png)
 
 ### Matrix 32x32
-![](images/saxpy_serial.png)
+![](images/saxpyMatrix32x32.png)
+
+### Statistics
+
+![](images/Tiempos vs GPU y CPU.png)
